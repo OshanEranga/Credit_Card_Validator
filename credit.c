@@ -34,6 +34,7 @@ int main(void)
             printf("INVALID\n");
         }
     }
+    return 0;
 }
 
 // check the card is valid
